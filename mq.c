@@ -1,6 +1,5 @@
 /*
 Name: Ali Sartaz Khan
-Course: CSc 352
 Description: C file that contains implementation of all the functions that 
 in the header file
 */
