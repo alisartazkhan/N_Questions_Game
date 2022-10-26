@@ -1,6 +1,5 @@
 /*
 Name: Ali Sartaz Khan
-Course: CSc 352
 Description: C file that contains methods that run the M-Questions game
 */
 #include "mq.h"
