@@ -1,6 +1,5 @@
 /*
 Name: Ali Sartaz Khan
-Course: CSc 352
 Description: Header file that contains all the functions that 
 need to be implemented for a decision tree.
 */
